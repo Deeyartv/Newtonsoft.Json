@@ -1,0 +1,61 @@
+{
+"providerName": "Deeyar TV",
+"lastUpdated": "2025-02-24T12:00:00Z",
+"language": "en",
+"movies": [],
+"series": [
+{
+"id": "deeyar_news_001",
+"title": "Deeyar News",
+"genres": [
+"News"
+],
+"shortDescription": "Latest news updates from Afghanistan and around the world.",
+"longDescription": "Stay informed with Deeyar TV's in-depth news coverage, bringing you breaking news, analysis, and updates on Afghan and global events.",
+"releaseDate": "2025-02-01",
+"seasonCount": 1,
+"episodes": [
+{
+"id": "deeyar_news_ep1",
+"title": "Top Afghan News Today",
+"seasonNumber": 1,
+"episodeNumber": 1,
+"releaseDate": "2025-02-23",
+"shortDescription": "Today's top headlines from Afghanistan and beyond.",
+"longDescription": "Breaking news and key developments from Afghanistan, covering politics, economy, and culture.",
+"url": "https://deeyar.tv/videos/deeyar_news_ep1.mp4",
+"thumbnail": "https://deeyar.tv/thumbnails/deeyar_news_ep1.jpg",
+"rating": "TV-G",
+"duration": 1800
+}
+]
+},
+{
+"id": "afghan_music_show_001",
+"title": "Afghan Music Show",
+"genres": [
+"Music",
+"Entertainment"
+],
+"shortDescription": "A showcase of Afghan music and artists.",
+"longDescription": "Enjoy performances by top Afghan artists, classic hits, and interviews with musicians.",
+"releaseDate": "2025-01-15",
+"seasonCount": 1,
+"episodes": [
+{
+"id": "afghan_music_ep1",
+"title": "Greatest Hits of Ahmad Zahir",
+"seasonNumber": 1,
+"episodeNumber": 1,
+"releaseDate": "2025-01-20",
+"shortDescription": "A special episode featuring Ahmad Zahir's best songs.",
+"longDescription": "Dive into the legacy of Ahmad Zahir with his most beloved songs and stories about his life.",
+"url": "https://deeyar.tv/videos/afghan_music_ep1.mp4",
+"thumbnail": "https://deeyar.tv/thumbnails/afghan_music_ep1.jpg",
+"rating": "TV-G",
+"duration": 2700
+}
+]
+}
+]
+}
